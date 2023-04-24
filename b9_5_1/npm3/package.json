@@ -1,0 +1,22 @@
+{
+  "name": "b9_5_1_sf_task",
+  "version": "1.0.0",
+  "description": "Task from SF B9_5_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nek333/npm.git"
+  },
+  "author": "Nek33",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nek333/npm/issues"
+  },
+  "homepage": "https://github.com/Nek333/npm#readme",
+  "dependencies": {
+    "b9_5_1_sf_task": "^1.0.0"
+  }
+}
